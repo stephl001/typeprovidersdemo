@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TypeProvidersDemo", "TypeProvidersDemo.fsproj", "{DF9D6A9A-AEBE-45C5-8163-653BFC014250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeProvidersClient", "TypeProvidersClient\TypeProvidersClient.csproj", "{D29E484B-C71C-48C3-A264-FBF7F3CEDB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9D6A9A-AEBE-45C5-8163-653BFC014250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9D6A9A-AEBE-45C5-8163-653BFC014250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9D6A9A-AEBE-45C5-8163-653BFC014250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9D6A9A-AEBE-45C5-8163-653BFC014250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29E484B-C71C-48C3-A264-FBF7F3CEDB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29E484B-C71C-48C3-A264-FBF7F3CEDB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29E484B-C71C-48C3-A264-FBF7F3CEDB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29E484B-C71C-48C3-A264-FBF7F3CEDB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
